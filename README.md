@@ -1,2 +1,3 @@
 # Straandbeest-Builds
-This repository contains the results and files regarding the project for Stranbeest Event by Hackclub 
+This repository contains the results and files regarding the project Motor Powered Strandbeest Which i thought about years ago when i came across this marvelous design by theo jansen that day i did not know any thing how to make one and today here am to build it right from scratch...
+I hope you like my work..
